@@ -1,0 +1,47 @@
+_repo: 1601--Conversation-as-it-was-by-the-Social-Fireside-in-the-Time-of-the-Tudors_3190
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "[Date: 1601.] Conversation, as it was by the Social Fireside, in the\
+  \ Time of the Tudors. or simply 1601 is the title of a short risqué squib by Mark\
+  \ Twain, first published anonymously in 1880, and finally acknowledged by the author\
+  \ in 1906.\nWritten as an extract from the diary of one of Queen Elizabeth I's ladies-in-waiting,\
+  \ the pamphlet purports to record a conversation between Elizabeth and several famous\
+  \ writers of the day. The topics discussed are entirely scatological, notably flatulence\
+  \ and sex.\n1601 was, according to Edward Wagenknecht, \"the most famous piece of\
+  \ pornography in American literature.\" However, it was more ribaldry than pornography;\
+  \ its content was more in the nature of irreverent and vulgar comedic shock than\
+  \ obscenity for sexual arousal.\nPrior to the court decisions in the United States\
+  \ in 1959-1966 that legalized the publication of Lady Chatterley's Lover, Tropic\
+  \ of Cancer, and Fanny Hill, the piece continued to be considered unprintable, and\
+  \ was circulated clandestinely in privately printed limited editions.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2004-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3190'
+  wikidata: Q4551109
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcsh 'Imaginary conversations'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Raleigh, Walter, Sir, 1552?-1618 -- Fiction'
+- GITenberg
+title: '1601: Conversation as it was by the Social Fireside in the Time of the Tudors'
+url: http://www.gutenberg.org/ebooks/3190
+wikipedia:
+- https://en.wikipedia.org/wiki/1601_(Mark_Twain)
