@@ -1,5 +1,8 @@
 _repo: 1601--Conversation-as-it-was-by-the-Social-Fireside-in-the-Time-of-the-Tudors_3190
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -25,6 +28,8 @@ description: "[Date: 1601.] Conversation, as it was by the Social Fireside, in t
   \ of Cancer, and Fanny Hill, the piece continued to be considered unprintable, and\
   \ was circulated clandestinely in privately printed limited editions.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3190#1601--Conversation-as-it-was-by-the-Social-Fireside-in-the-Time-of-the-Tudors
 gutenberg_issued: '2004-09-17'
 gutenberg_type: Text
 identifiers:
